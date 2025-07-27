@@ -1,0 +1,1 @@
+senha_correta = "1234"
